@@ -1,5 +1,5 @@
 # PVNet_TENSRORRT
-A thread roll pose estimation project with PVNet implemented by tensorrt
+A thread roll pose estimation project with PVNet implemented by tensorrt.
 
 ![demo](asset/demo.png#pic_center)
 
