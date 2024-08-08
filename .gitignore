@@ -162,6 +162,6 @@ cython_debug/
 #.idea/
 
 .vscode/
-.model/clean_pvnet_green.onnx
-.model/cpg_sim_eval.onnx
-.model/cpn_sim.onnx
+model/clean_pvnet_green.onnx
+model/cpg_sim_eval.onnx
+model/cpn_sim.onnx
