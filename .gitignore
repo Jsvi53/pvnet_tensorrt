@@ -165,4 +165,3 @@ cython_debug/
 .model/clean_pvnet_green.onnx
 .model/cpg_sim_eval.onnx
 .model/cpn_sim.onnx
-dataset/custom/
